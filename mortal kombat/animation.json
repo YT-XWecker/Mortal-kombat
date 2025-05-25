@@ -1,0 +1,34 @@
+{
+    "player": {
+            "standing": [
+                
+            ],
+            "appercot": [
+                
+        
+            ],
+            "moving": [
+                
+            ],
+            "death": [
+               
+            ] 
+    },
+
+    "enemy": {
+            "death": [
+                
+            ],
+            "standing": [
+                
+            ],
+            "appercot": [
+                
+            ]
+            
+
+    
+    
+    }
+    
+}
